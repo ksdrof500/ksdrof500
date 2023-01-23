@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ksdrof500&color=blue&style=flat)
 
-- 👨‍💻 Developer with more then 10 years experience
+- 👨‍💻 Developer with more then 13 years experience
 - 🔭 I’m currently working on Mobile and Backend
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about general programming
